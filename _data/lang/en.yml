@@ -27,7 +27,7 @@ not_found:
 no_translation_tooltip: No Translation
 
 navigation:
-  brand_sub_text: Jekyll theme
+  brand_sub_text: "FRONT-END-DEVELOPER"
   contact_header: Contact
 
 color_scheme_switch_tooltip: Color scheme
@@ -130,9 +130,9 @@ home:
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
   # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
-  top_header_line1: "Welcome To"
+  top_header_line1: "저는 정혜연입니다"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand Theme"
+  top_header_line2: "감사합니다"
 
 # for archives layout
 archives:
@@ -168,14 +168,14 @@ privacy-policy:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: &meta_info $site_brand is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
+meta_common_description:
 
 auto_content:
   title: Sample post (auto generated)
-  greeting: Hello!
-  text: *meta_info
-  more_info: Learn More.
-  auto_generated_text: This is an auto generated sample content for display in the selected language.
+  greeting: Profile
+  # text: *meta_info
+  # more_info: Learn More.
+  auto_generated_text: 저는 Front-end의 코드의 변화를 직접적으로 볼 수 있는 매력에 빠져있는 정혜연입니다.
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
