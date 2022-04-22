@@ -130,9 +130,9 @@ home:
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
   # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
-  top_header_line1: "저는 정혜연입니다"
+  top_header_line1: "I'm Front End Developer"
   # if commented, top header will be a single line
-  top_header_line2: "감사합니다"
+  top_header_line2: "Welcome my Blog"
 
 # for archives layout
 archives:
@@ -175,7 +175,8 @@ auto_content:
   greeting: Profile
   # text: *meta_info
   # more_info: Learn More.
-  auto_generated_text: 저는 Front-end의 코드의 변화를 직접적으로 볼 수 있는 매력에 빠져있는 정혜연입니다.
+  auto_generated_text: 저는 Front-end의 코드의 변화를 직접적으로 볼 수 있는 매력에 빠져있는 정혜연입니다. 
+  
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
